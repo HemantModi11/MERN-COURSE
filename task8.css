@@ -1,0 +1,11 @@
+table{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+tr:first-child{
+    color:white;
+    background-color: rgb(62,162,62)
+}
+tr:nth-child(2n){
+    background-color: #a39a9a40;
+} 

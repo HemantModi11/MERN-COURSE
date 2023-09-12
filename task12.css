@@ -1,0 +1,36 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #680d0df2;
+    margin: 25px 182px;
+    color: white;
+    display: flex;
+    width: 65%;
+    justify-content: center;
+    align-items: center;
+    padding:10px;
+}
+
+.whole {
+    background-color: #8f3546;
+    margin: 10px 233px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text1{
+    font-family: 'Gill Sans', sans-serif;
+    
+}
+
+.btn{
+    width:300%;
+    padding:5px;
+    font-weight: bold;
+    font-size:18px;
+    border-radius: 8px;
+}
